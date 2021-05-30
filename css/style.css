@@ -1,0 +1,14 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#coor {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+body {
+    background-color: black;
+}
+div {
+    border: 1px solid black;
+}
